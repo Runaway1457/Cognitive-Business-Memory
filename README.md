@@ -145,4 +145,4 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-<p align="center">Feito com 🧠</p>
+<p align="center">By Gabriel B</p>
