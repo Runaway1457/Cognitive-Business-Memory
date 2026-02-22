@@ -2,7 +2,7 @@
 
 > **Assistente de Memória Empresarial com IA** - Sistema que "lembra" todo o contexto empresarial e conecta pontos invisíveis através de um Grafo de Conhecimento Temporal.
 
-![Next.js](https://img.shields.io/badge/Next.js-16.1.1-black?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-15.1.1-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Three.js](https://img.shields.io/badge/Three.js-0.183-black?style=flat-square&logo=three.js)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
